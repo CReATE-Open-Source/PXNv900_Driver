@@ -7,4 +7,4 @@ This repository contains source code of PXNV900 Driver and main code for sending
 3. Compile main.c with gcc
 
 ## Schematic
-![PXNtoDCU](https://github.com/user-attachments/assets/292a96b0-4e5d-426c-942e-130539e0ef17)
+![PXNtoDCu (1)](https://github.com/user-attachments/assets/f30f65cf-c85e-4e92-b5dd-b9cae7ca5498)
